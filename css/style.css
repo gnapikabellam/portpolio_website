@@ -1,0 +1,60 @@
+
+.bannerBgImage{
+    height: 100vh;
+    background: url("../images/bgimg.jpg");
+    background-size: cover;
+    position: relative;
+}
+.bannertext{
+    text-align:right;
+    position:absolute;
+    color:white;
+    top:30%;
+}
+.bannertitle{
+    font-size: 4rem;
+}
+.bannerDesc{
+    font-size: 2rem;
+}
+.intro{
+    background-color: rgb(226, 249, 241);
+}
+.edu{
+    background-color: rgb(249, 221, 225);
+}
+.skill{
+    background-color: hsl(60, 87%, 88%);
+}
+.connect{
+    background-color: #dff1e6;
+}
+.photo{
+    float:left;
+
+}
+.img_pos{
+    float:left;
+}
+
+.card{
+    cursor: pointer;
+} 
+.card:hover{
+    background-color: paleturquoise;
+    border: 5px solid yellow;
+}
+.bIcon{
+    width: 100%;
+    text-align:center;
+    font-size:40px;
+}
+.card-image-top{
+    height: 50vh;
+}
+.img{
+    height:90px;
+    width:90px;
+}
+
+
